@@ -1,7 +1,7 @@
 # WiFrisk - Pentest Wifi para Windows
 
 <p align="center">
-  <img src="Wi.png" alt="WiFrisk Banner" width="128" />
+  <img src="q.png" alt="WiFrisk Banner" width="128" />
 </p>
 
 [![Versão](https://img.shields.io/badge/vers%C3%A3o-1.0.0-green.svg)](CHANGELOG.md)
